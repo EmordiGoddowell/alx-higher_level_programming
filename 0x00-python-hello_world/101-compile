@@ -2,4 +2,4 @@
 # Get the Python file name from the environment variable
 PYFILE_NAME=$PYFILE
 # Compile the Python file
-python -m py_compile $PYFILE_NAME
+python3 -m py_compile $PYFILE_NAME
